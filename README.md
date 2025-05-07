@@ -2,7 +2,7 @@
 
 This repository contains an original question I developed to break the internal logic of the Hardest Logic Puzzle Ever.
 
-The question — *“If a god can tell the truth, can he also lie?”* — destabilizes the framework by introducing a truth condition that causes undefined behavior across all three god identities (truth-teller, liar, and random). The result is a breakdown of the puzzle’s assumptions and a collapse of its solution model.
+The question — *“If a god can tell the truth, can it also lie?”* — destabilizes the framework by introducing a truth condition that causes undefined behavior across all three god identities (truth-teller, liar, and random). The result is a breakdown of the puzzle’s assumptions and a collapse of its solution model.
 
 This is not a new puzzle. It is a targeted philosophical exploit of a very specific logic structure.
 
