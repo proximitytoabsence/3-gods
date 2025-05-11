@@ -1,5 +1,5 @@
 # The Question That Freezes All Three Gods
-### A system-compliant deadlock inside Boolos' Hardest Logic Puzzle
+* A system-compliant deadlock inside Boolos' Hardest Logic Puzzle
 
 ## Overview
 This document introduces and analyzes a novel question within the framework of George Boolos’ “Hardest Logic Puzzle Ever.” The question is:
